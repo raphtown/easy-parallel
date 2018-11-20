@@ -10,7 +10,7 @@ From package root, run:
 
 .. code-block:: console
 
-    make requirements
+    $ make requirements
 
 Usage
 -----
