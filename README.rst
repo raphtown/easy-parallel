@@ -17,7 +17,7 @@ Usage
 
 In python session:
 
-.. code-block:: console
+.. code-block:: python
 
     def foo(x, y):
       return x + y
