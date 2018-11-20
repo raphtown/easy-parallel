@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='parallel',
+    name='easy-parallel',
     py_modules=['parallel'],
     version='0.1.0',
     description='Parallel wrapper for easy multi-threading.',

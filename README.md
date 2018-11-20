@@ -1,4 +1,4 @@
-# Parallel
+# easy-parallel
 
 ## Installation
 
