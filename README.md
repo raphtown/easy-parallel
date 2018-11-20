@@ -1,3 +1,5 @@
-== Installation ==
+# Parallel
+
+## Installation
 
 `make requirements`
