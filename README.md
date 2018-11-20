@@ -1,6 +1,10 @@
 # easy-parallel
 
+Parallel wrapper for easy multi-threading.
+
 ## Installation
+
+From package root, run:
 
 `make requirements`
 
