@@ -1,0 +1,8 @@
+# local package
+-e .
+
+# external requirements
+pathos
+
+# backwards compatibility
+pathlib2
