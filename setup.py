@@ -4,7 +4,7 @@ setup(
     name='easy-parallel',
     py_modules=['parallel'],
     url='https://github.com/raphtown/easy-parallel',
-    version='0.1.3',
+    version='0.1.4',
     description='Parallel wrapper for easy multi-threading.',
     long_description=open("README.rst").read(),
     author='Raphael Townshend',
