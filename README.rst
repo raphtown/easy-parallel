@@ -6,7 +6,13 @@ Parallel wrapper for easy multi-threading.
 Installation
 ------------
 
-From package root, run:
+Through pip:
+
+.. code-block:: console
+
+    $ pip install easy-parallel
+
+Manually, from package root, run:
 
 .. code-block:: console
 
