@@ -6,8 +6,12 @@ for user interrupts as well as nice error logging.
 """
 import logging
 import pathos.multiprocessing as mp
-import StringIO
 import traceback
+
+try:
+    from StringIO import StringIO
+except ImportError:
+    from io import StringIO
 
 
 def curr_process():
