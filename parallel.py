@@ -57,6 +57,7 @@ def submit_jobs(function, inputs, num_threads):
             chunksize=1)
 
         out = res.get()
+        pool.close()  # Free up resources
     else:
         logging.info('Sequential Mode.')
         out = [function(*args) for args in inputs]
